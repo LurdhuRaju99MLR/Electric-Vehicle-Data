@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Electric Vehicle Population Dashboard
+
+This project visualizes key insights from the Electric Vehicle population data.
+
+## Live Dashboard
+
+You can view the live dashboard here: [Live Dashboard](https://clinquant-cactus-46d04c.netlify.app/)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
